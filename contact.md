@@ -1,9 +1,7 @@
 # Contact us
 
-Telefonnummer: 0049 079 XXXXXXX
-
-Instagram: 
-
-Email: etschi.com
+Telefonnummer
+Instagram
+Email
 
 [Back to Etschi main page](index.md)
