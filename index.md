@@ -1,4 +1,4 @@
-# Etschi (or something else) 
+# Test Website 
 
 This is the index.md page
 
